@@ -1,0 +1,22 @@
+/* .App {
+  margin-left: 550px;
+  margin-top: 200px;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  border: 0;
+}
+
+canvas {
+  /* background: red; */
+  width: 500px;
+  height: 500px;
+  display: block;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
